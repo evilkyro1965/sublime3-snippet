@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[background: url(../i/${1:}) no-repeat top right;]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>bgdntr</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.css</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Background No Repeat Top Right</description>
+</snippet>

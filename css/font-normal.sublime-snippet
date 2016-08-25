@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+<![CDATA[font-size: ${1:} px;
+line-height: ${2:} px;]]></content>
+    <tabTrigger>tex</tabTrigger>
+    <scope>source.css</scope>
+    <description></description>
+</snippet>

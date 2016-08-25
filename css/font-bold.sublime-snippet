@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+<![CDATA[font-size: ${1:} px;
+line-height: ${2:} px;
+font-weight: ${3:};]]></content>
+    <tabTrigger>texb</tabTrigger>
+    <scope>source.css</scope>
+    <description></description>
+</snippet>
